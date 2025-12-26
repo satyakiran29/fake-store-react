@@ -78,19 +78,7 @@ The app will run at:
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of your app UI here for better presentation._
-
-Example:
-```
-/screenshots
- ├── home.png
- ├── products.png
- ├── mobile-view.png
-```
-
----
 
 ## 🎯 Learning Outcomes
 
