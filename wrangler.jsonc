@@ -1,5 +1,5 @@
 {
-  "name": "api-store",
+  "name": "fake-store-react",
   "compatibility_date": "2025-12-26",
   "assets": {
     "directory": "./dist"
